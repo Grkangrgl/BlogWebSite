@@ -13,7 +13,7 @@
 
 - [ ] İngilizce dilinin desteklenmesi
 - [ ] Login ve register panellerinin oluşturulması
-- [ ] Bloglara yorum tapabilme
+- [ ] Bloglara yorum yapabilme
 - [ ] Footer, navbar düzenlemeleri
 - [ ] Generic Service yapıları güncellemesi
 - [ ] Yazar için Dashboard eklenmesi
